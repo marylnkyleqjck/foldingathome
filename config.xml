@@ -1,0 +1,9 @@
+<config>
+  <user value="fne01qkr5bye"/>
+  <team value="234980"/>      
+  <passkey value="f1ca7bc9170c9d35f1ca7bc9170c9d35"/>  
+
+  <power value="full"/>
+  <gpu value="true"/>   
+  <fold-anon value="false"/>
+</config>
